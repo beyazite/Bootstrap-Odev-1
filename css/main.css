@@ -1,0 +1,45 @@
+
+.main-logo {
+    border-radius: 100px;
+    max-width: 25%;
+}
+
+button a {
+    text-decoration: none; 
+}
+button a:visited {
+    color: white;
+}
+
+.btn-buy {
+    display: block;
+    width: 100%;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.btn-social {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-img {
+    max-width: 40%;
+    height: auto;
+    align-self: center;
+}
+
+iframe {
+    max-width: 100%;
+}
+
+ul li {
+   width: 100px;
+   margin: 0 auto;
+}
